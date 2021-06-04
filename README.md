@@ -1,2 +1,3 @@
 # hello-world
-This is me learning to use github 
+Hello All
+This is Suvindu , A fellow coder and enthusiast!
